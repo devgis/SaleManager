@@ -1,0 +1,10 @@
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\bin\Debug\Business.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\bin\Debug\Business.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\obj\Debug\DEVGIS.SaleManager.Business.csprojAssemblyReference.cache
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\obj\Debug\Business.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\obj\Debug\Business.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\bin\Debug\Data.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\bin\Debug\Data.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\obj\Debug\DEVGIS.SaleManager.Business.csproj.CopyComplete
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\bin\Debug\Interface.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Business\bin\Debug\Interface.pdb

@@ -1,0 +1,16 @@
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\bin\Debug\SaleManager.exe
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\bin\Debug\SaleManager.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\obj\Debug\DEVGIS.SaleManager.csprojAssemblyReference.cache
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\obj\Debug\DEVGIS.SaleManager.Properties.Resources.resources
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\obj\Debug\DEVGIS.SaleManager.csproj.GenerateResource.cache
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\obj\Debug\SaleManager.exe
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\obj\Debug\SaleManager.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\bin\Debug\SaleManager.exe.config
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\bin\Debug\Business.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\bin\Debug\Interface.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\bin\Debug\Business.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\bin\Debug\Interface.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager\obj\Debug\DEVGIS.SaleManager.csproj.CopyComplete
+D:\Work\GitHub\SaleManager\SourceCode\bin\SaleManager.exe.config
+D:\Work\GitHub\SaleManager\SourceCode\bin\SaleManager.exe
+D:\Work\GitHub\SaleManager\SourceCode\bin\SaleManager.pdb

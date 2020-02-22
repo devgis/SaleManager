@@ -1,0 +1,18 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+/SourceCode/packages/
+/SourceCode/bin/
+
+# ignore bin path
+/SaleManager/SourceCode/Common/bin/
+/SaleManager/SourceCode/DEVGIS.SaleManager/bin/
+/SaleManager/SourceCode/DEVGIS.SaleManager.Business/bin/
+/SaleManager/SourceCode/DEVGIS.SaleManager.Data/bin/
+/SaleManager/SourceCode/DEVGIS.SaleManager.Interface/bin/
+
+# ignore obj path
+/SaleManager/SourceCode/Common/obj/
+/SaleManager/SourceCode/DEVGIS.SaleManager/obj/
+/SaleManager/SourceCode/DEVGIS.SaleManager.Business/obj/
+/SaleManager/SourceCode/DEVGIS.SaleManager.Data/bin/
+/SaleManager/SourceCode/DEVGIS.SaleManager.Interface/obj/

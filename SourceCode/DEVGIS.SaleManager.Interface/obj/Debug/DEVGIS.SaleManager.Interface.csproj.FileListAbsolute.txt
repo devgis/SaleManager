@@ -1,0 +1,4 @@
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Interface\bin\Debug\Interface.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Interface\bin\Debug\Interface.pdb
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Interface\obj\Debug\Interface.dll
+D:\Work\GitHub\SaleManager\SourceCode\DEVGIS.SaleManager.Interface\obj\Debug\Interface.pdb
